@@ -19,15 +19,6 @@
 - Database: MongoDB, MySQL
 - Tools: Git, GitHub, Postman
 
----
-
-## 🚀 Projects
-🔹 **Chatify** – Real-time Chat App  
-👉 React, Node.js, Socket.IO, JWT  
-🔗 Live: https://chatify-5hwp.onrender.com  
-
-🔹 **College Club Website**  
-👉 React, Tailwind, Redux  
 
 ---
 
