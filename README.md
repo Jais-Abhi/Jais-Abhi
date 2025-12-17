@@ -75,7 +75,7 @@
 ---
 
 ## 🤝 Let’s Connect  
-- 💼 LinkedIn: [YOUR_LINKEDIN ](https://www.linkedin.com/in/abhishek-jais/)   
+- 💼 LinkedIn: [abhishek-jais ](https://www.linkedin.com/in/abhishek-jais/)   
 - 📧 Email: abhijaiswal7479@gmail.com
 
 ---
