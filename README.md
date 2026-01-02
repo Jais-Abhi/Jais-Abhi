@@ -41,14 +41,9 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=rct-router&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&lo=mongodb&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-squa&logo=JSON%20web%20tokens) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-squa 
-&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square& 
-go=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&l
-
-o=postman&logoColor
-white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-squa&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&go=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&lo=postman&logoColorwhite)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jais-Abhi&theme=dark&hide_border=false&include_all_commitsbral
