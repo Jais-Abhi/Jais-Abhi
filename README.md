@@ -46,29 +46,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&lo=postman&logoColorwhite)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jais-Abhi&theme=dark&hide_border=false&include_all_commitsbral
-e&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jais-Abhi&thbre=
-ark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jais-Abhi&theme=dark&hide_border=false&include_all_commits=false&count_p
+![](https://github-readme-stats.vercel.app/api?username=Jais-Abhi&theme=dark&hide_border=false&include_all_commitsbrale&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jais-Abhi&thbre=ark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jais-Abhi&theme=dark&hide_border=false&include_all_commits=false&count_pvate=false&layout=compact)
 
-vate=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=Jais-Abhi&icon=0&color=0)](tps://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=Jais-Abhi&icon=0&color=0)](
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jais-Abhi&show_ons=true&theme=tokyonight)
 
-tps://visitcount.itsvg.in)
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jais-Abhi&show_
-
-ons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jais-Abhi&layo
-
-
----
-
-ct&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jais-Abhi&layoct&theme=tokyonight)
 
 ---
 
