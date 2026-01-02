@@ -34,20 +34,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-squa&logo=npm&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&lognodemon&logoColor=%BBDEAD) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=
-xpress&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo= 
-cket.io&badgeColor=010101) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&log 
-firebase&logoColor=ffcd34) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&log 
-react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=r 
-ct-router&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&l 
-o=mongodb&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-squa 
-&logo=JSON%20web%20tokens) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=xpress&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=cket.io&badgeColor=010101) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logfirebase&logoColor=ffcd34) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logreact&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=rct-router&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&lo=mongodb&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-squa&logo=JSON%20web%20tokens) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-squa 
 &logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square& 
