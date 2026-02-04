@@ -56,8 +56,8 @@
 ---
 
  📦 Advanced Backend Architecture  
-n ⚛️ Performance Optimization in React  
-n ☁️ Deployment & Scaling  
+ ⚛️ Performance Optimization in React  
+ ☁️ Deployment & Scaling  
 
 ---
 
