@@ -25,38 +25,6 @@
 ---
 
 ## 💻 Tech Stack:
-<h2 align="center">🚀 Tech Stack</h2>
-
-<p align="center">
-
-<img src="https://api.iconify.design/material-icon-theme:html.svg" width="70"/>
-<img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="70"/>
-<img src="https://api.iconify.design/logos:bootstrap.svg" width="70"/>
-<img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="70"/>
-<img src="https://api.iconify.design/logos:javascript.svg" width="70"/>
-<img src="https://api.iconify.design/logos:java.svg" width="70"/>
-
-<br><br>
-
-<img src="https://api.iconify.design/logos:react.svg" width="70"/>
-<img src="https://api.iconify.design/logos:react-router.svg" width="70"/>
-<img src="https://api.iconify.design/logos:redux.svg" width="70"/>
-<img src="https://api.iconify.design/logos:nextjs-icon.svg" width="70"/>
-<img src="https://api.iconify.design/logos:nodejs-icon.svg" width="70"/>
-<img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" width="70"/>
-
-<br><br>
-
-<img src="https://api.iconify.design/logos:mongodb-icon.svg" width="70"/>
-<img src="https://api.iconify.design/simple-icons:socketdotio.svg" width="70"/>
-<img src="https://api.iconify.design/logos:firebase-icon.svg" width="70"/>
-<img src="https://api.iconify.design/simple-icons:clerk.svg?color=cac3c1" width="70"/>
-<img src="https://api.iconify.design/logos:git-icon.svg" width="70"/>
-<img src="https://api.iconify.design/logos:postman-icon.svg" width="70"/>
-
-</p>
-
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
