@@ -26,6 +26,47 @@
 
 ## 💻 Tech Stack:
 
+<h2 align="center">🚀 Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://api.iconify.design/logos:nextjs-icon.svg" width="45"/><br>Next.js
+</td>
+
+<td align="center" width="100">
+<img src="https://api.iconify.design/logos:react.svg" width="45"/><br>React
+</td>
+
+<td align="center" width="100">
+<img src="https://api.iconify.design/logos:nodejs-icon.svg" width="45"/><br>Node.js
+</td>
+
+<td align="center" width="100">
+<img src="https://api.iconify.design/logos:mongodb-icon.svg" width="45"/><br>MongoDB
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="45"/><br>Tailwind CSS
+</td>
+
+<td align="center">
+<img src="https://api.iconify.design/logos:convex.svg" width="45"/><br>Convex
+</td>
+
+<td align="center">
+<img src="https://api.iconify.design/logos:git-icon.svg" width="45"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://api.iconify.design/logos:javascript.svg" width="45"/><br>JavaScript
+</td>
+</tr>
+</table>
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
