@@ -36,7 +36,7 @@
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:css-3.svg" width="40"/><br>CSS3
+<img src="https://api.iconify.design/logos:css-3.svg" width="60"/><br>CSS3
 </td>
 
 <td align="center">
