@@ -28,87 +28,88 @@
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<table align="center" width="100%">
+<table align="center" style="width:100%; table-layout:fixed;">
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/logos:html-5.svg" width="40"/><br>HTML5
+<img src="https://api.iconify.design/material-icon-theme:html.svg" width="100"/><br>HTML
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:css-3.svg" width="60"/><br>CSS3
+<img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="100"/><br>CSS
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:bootstrap.svg" width="80"/><br>Bootstrap
+<img src="https://api.iconify.design/logos:bootstrap.svg" width="100"/><br>Bootstrap
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="40"/><br>Tailwind CSS
+<img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="100"/><br>Tailwind CSS
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:javascript.svg" width="40"/><br>JavaScript
+<img src="https://api.iconify.design/logos:javascript.svg" width="100"/><br>JavaScript
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:java.svg" width="40"/><br>Java
+<img src="https://api.iconify.design/logos:java.svg" width="100"/><br>Java
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/logos:react.svg" width="40"/><br>React
+<img src="https://api.iconify.design/logos:react.svg" width="100"/><br>React
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:react-router.svg" width="40"/><br>React Router
+<img src="https://api.iconify.design/logos:react-router.svg" width="100"/><br>React Router
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:redux.svg" width="40"/><br>React Redux
+<img src="https://api.iconify.design/logos:redux.svg" width="100"/><br>React Redux
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:nextjs-icon.svg" width="40"/><br>Next.js
+<img src="https://api.iconify.design/logos:nextjs-icon.svg" width="100"/><br>Next.js
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:nodejs-icon.svg" width="40"/><br>Node.js
+<img src="https://api.iconify.design/logos:nodejs-icon.svg" width="100"/><br>Node.js
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/simple-icons:express.svg" width="40"/><br>Express.js
+<img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" width="100"/><br>Express.js
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/logos:mongodb-icon.svg" width="40"/><br>MongoDB
+<img src="https://api.iconify.design/logos:mongodb-icon.svg" width="100"/><br>MongoDB
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/simple-icons:socketdotio.svg" width="40"/><br>Socket.io
+<img src="https://api.iconify.design/simple-icons:socketdotio.svg" width="100"/><br>Socket.io
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:firebase.svg" width="40"/><br>Firebase
+<img src="https://api.iconify.design/logos:firebase-icon.svg" width="100"/><br>Firebase
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/simple-icons:clerk.svg" width="40"/><br>Clerk
+<img src="https://api.iconify.design/simple-icons:clerk.svg?color=cac3c1" width="100"/><br>Clerk
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:git-icon.svg" width="40"/><br>Git
+<img src="https://api.iconify.design/logos:git-icon.svg" width="100"/><br>Git
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:postman-icon.svg" width="40"/><br>Postman
+<img src="https://api.iconify.design/logos:postman-icon.svg" width="100"/><br>Postman
 </td>
 </tr>
 
 </table>
+
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
