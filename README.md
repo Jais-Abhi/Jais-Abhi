@@ -40,7 +40,7 @@
 </td>
 
 <td align="center">
-<img src="https://api.iconify.design/logos:bootstrap.svg" width="40"/><br>Bootstrap
+<img src="https://api.iconify.design/logos:bootstrap.svg" width="80"/><br>Bootstrap
 </td>
 
 <td align="center">
