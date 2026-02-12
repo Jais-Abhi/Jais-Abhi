@@ -26,91 +26,6 @@
 
 ## 💻 Tech Stack:
 
-<h2 align="center">🚀 Tech Stack</h2>
-
-<table align="center" style="width:100%; table-layout:fixed;">
-
-<tr>
-<td align="center">
-<img src="https://api.iconify.design/material-icon-theme:html.svg" width="60"/><br>HTML
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="60"/><br>CSS
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:bootstrap.svg" width="60"/><br>Bootstrap
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="60"/><br>Tailwind CSS
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:javascript.svg" width="60"/><br>JavaScript
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:java.svg" width="60"/><br>Java
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://api.iconify.design/logos:react.svg" width="60"/><br>React
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:react-router.svg" width="60"/><br>React Router
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:redux.svg" width="60"/><br>React Redux
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:nextjs-icon.svg" width="60"/><br>Next.js
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:nodejs-icon.svg" width="60"/><br>Node.js
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" width="60"/><br>Express.js
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://api.iconify.design/logos:mongodb-icon.svg" width="60"/><br>MongoDB
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/simple-icons:socketdotio.svg" width="60"/><br>Socket.io
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:firebase-icon.svg" width="60"/><br>Firebase
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/simple-icons:clerk.svg?color=cac3c1" width="60"/><br>Clerk
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:git-icon.svg" width="60"/><br>Git
-</td>
-
-<td align="center">
-<img src="https://api.iconify.design/logos:postman-icon.svg" width="60"/><br>Postman
-</td>
-</tr>
-
-</table>
-
-
 
 ## 🚀 Tech Stack
 
@@ -120,14 +35,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![React Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
