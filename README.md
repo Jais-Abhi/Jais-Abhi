@@ -25,84 +25,36 @@
 ---
 
 ## 💻 Tech Stack:
-
 <h2 align="center">🚀 Tech Stack</h2>
 
-<div align="center">
+<p align="center">
 
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/material-icon-theme:html.svg" width="80"/><br>HTML
-</span>
+<img src="https://api.iconify.design/material-icon-theme:html.svg" width="70"/>
+<img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="70"/>
+<img src="https://api.iconify.design/logos:bootstrap.svg" width="70"/>
+<img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="70"/>
+<img src="https://api.iconify.design/logos:javascript.svg" width="70"/>
+<img src="https://api.iconify.design/logos:java.svg" width="70"/>
 
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="80"/><br>CSS
-</span>
+<br><br>
 
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:bootstrap.svg" width="80"/><br>Bootstrap
-</span>
+<img src="https://api.iconify.design/logos:react.svg" width="70"/>
+<img src="https://api.iconify.design/logos:react-router.svg" width="70"/>
+<img src="https://api.iconify.design/logos:redux.svg" width="70"/>
+<img src="https://api.iconify.design/logos:nextjs-icon.svg" width="70"/>
+<img src="https://api.iconify.design/logos:nodejs-icon.svg" width="70"/>
+<img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" width="70"/>
 
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="80"/><br>Tailwind CSS
-</span>
+<br><br>
 
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:javascript.svg" width="80"/><br>JavaScript
-</span>
+<img src="https://api.iconify.design/logos:mongodb-icon.svg" width="70"/>
+<img src="https://api.iconify.design/simple-icons:socketdotio.svg" width="70"/>
+<img src="https://api.iconify.design/logos:firebase-icon.svg" width="70"/>
+<img src="https://api.iconify.design/simple-icons:clerk.svg?color=cac3c1" width="70"/>
+<img src="https://api.iconify.design/logos:git-icon.svg" width="70"/>
+<img src="https://api.iconify.design/logos:postman-icon.svg" width="70"/>
 
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:java.svg" width="80"/><br>Java
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:react.svg" width="80"/><br>React
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:react-router.svg" width="80"/><br>React Router
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:redux.svg" width="80"/><br>React Redux
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:nextjs-icon.svg" width="80"/><br>Next.js
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="80"/><br>Node.js
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" width="80"/><br>Express.js
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:mongodb-icon.svg" width="80"/><br>MongoDB
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/simple-icons:socketdotio.svg" width="80"/><br>Socket.io
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:firebase-icon.svg" width="80"/><br>Firebase
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/simple-icons:clerk.svg?color=cac3c1" width="80"/><br>Clerk
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:git-icon.svg" width="80"/><br>Git
-</span>
-
-<span style="display:inline-block; margin:20px;">
-  <img src="https://api.iconify.design/logos:postman-icon.svg" width="80"/><br>Postman
-</span>
-
-</div>
+</p>
 
 
 
