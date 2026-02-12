@@ -26,28 +26,64 @@
 
 ## 💻 Tech Stack:
 
+<h2 align="center">🚀 Tech Stack</h2>
 
-## 🚀 Tech Stack
+<div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-1572B6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![React Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://api.iconify.design/material-icon-theme:html.svg" width="80"/><br>HTML
+&nbsp;&nbsp;&nbsp;
 
+<img src="https://api.iconify.design/vscode-icons:file-type-css2.svg" width="80"/><br>CSS
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:bootstrap.svg" width="80"/><br>Bootstrap
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="80"/><br>Tailwind CSS
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:javascript.svg" width="80"/><br>JavaScript
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:java.svg" width="80"/><br>Java
+<br><br>
+
+<img src="https://api.iconify.design/logos:react.svg" width="80"/><br>React
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:react-router.svg" width="80"/><br>React Router
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:redux.svg" width="80"/><br>React Redux
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:nextjs-icon.svg" width="80"/><br>Next.js
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:nodejs-icon.svg" width="80"/><br>Node.js
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" width="80"/><br>Express.js
+<br><br>
+
+<img src="https://api.iconify.design/logos:mongodb-icon.svg" width="80"/><br>MongoDB
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/simple-icons:socketdotio.svg" width="80"/><br>Socket.io
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:firebase-icon.svg" width="80"/><br>Firebase
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/simple-icons:clerk.svg?color=cac3c1" width="80"/><br>Clerk
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:git-icon.svg" width="80"/><br>Git
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://api.iconify.design/logos:postman-icon.svg" width="80"/><br>Postman
+
+</div>
 
 
 
