@@ -44,6 +44,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-squa&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&go=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&lo=postman&logoColorwhite)
+![Skills](https://skillicons.dev/icons?i=nextjs)
 
 ## 📊 GitHub Stats:
 
