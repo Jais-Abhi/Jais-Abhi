@@ -31,11 +31,10 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logreact&logoColor=%2361DAFB) 
 ![NextJS](https://img.shields.io/badge/next.js-111111.svg?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-squa&logo=npm&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&lognodemon&logoColor=%BBDEAD) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=xpress&logoColor=%2361DAFB)
 ![Clerk](https://img.shields.io/badge/clerk-000000.svg?style=flat-square&logo=clerk&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=cket.io&badgeColor=010101) 
@@ -44,7 +43,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&lo=mongodb&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-squa&logo=JSON%20web%20tokens) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-squa&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&go=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&lo=postman&logoColorwhite)
 
 ## 📊 GitHub Stats:
