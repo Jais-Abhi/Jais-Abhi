@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abhishek Jaiswal
 
 🚀 **Full Stack Web Developer (MERN)**  
+🧑‍💻 **Software Developer**  
 🎓 B.Tech CSE Student  
 💡 I build **real-world, scalable web applications**
 
