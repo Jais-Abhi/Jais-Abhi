@@ -14,7 +14,6 @@
 - ⚡ Experienced with **real-time communication using Socket.IO**  
 - 🔐 Strong understanding of **Authentication & Authorization**  
 - 📧 Implemented **Email OTP verification systems**  
-- 🪪 Worked with **JWT, Access & Refresh Tokens**  
 - 🛠 Love turning ideas into **production-ready projects**
 ---
 
