@@ -2,8 +2,6 @@
 
 🚀 **Full Stack Web Developer (MERN)**  
 🧑‍💻 **Software Developer**  
-💡 I build **real-world, scalable web applications**
-
 
 ---
 
