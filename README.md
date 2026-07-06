@@ -50,7 +50,10 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jais-Abhi&layoct&theme=tokyonight)
 
+
 ---
+
+![Snake animation](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg)
 
  📦 Advanced Backend Architecture  
  ⚛️ Performance Optimization in React  
