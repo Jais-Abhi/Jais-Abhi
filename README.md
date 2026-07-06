@@ -53,7 +53,7 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Jais-Abhi/Jais-Abhi/output/github-contribution-grid-snake.svg)
 
  📦 Advanced Backend Architecture  
  ⚛️ Performance Optimization in React  
