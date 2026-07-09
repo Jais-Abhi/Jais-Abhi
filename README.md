@@ -12,6 +12,7 @@
 - 🔐 Strong understanding of **Authentication & Authorization**  
 - 📧 Implemented **Email OTP verification systems**  
 - 🛠 Love turning ideas into **production-ready projects**
+- Experience in AI integeration & RAG
 ---
 
 
