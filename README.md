@@ -54,8 +54,6 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Jais-Abhi/Jais-Abhi/output/github-contribution-grid-snake.svg)
-
  📦 Advanced Backend Architecture  
  ⚛️ Performance Optimization in React  
  ☁️ Deployment & Scaling  
