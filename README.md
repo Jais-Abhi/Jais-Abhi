@@ -1,6 +1,5 @@
 # Jais-Abhi
 
-> Memorable developer positioning.
 
 **Theme:** Aurora · **Style:** Creative · **Agent:** Full-Stack Engineer
 
