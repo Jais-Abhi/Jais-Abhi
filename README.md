@@ -1,3 +1,8 @@
+# 👋 Hi, I'm Abhishek Jaiswal
+
+### Full Stack Developer | MERN Stack | AI & Web Development
+
+Computer Science & Engineering student focused on building modern, scalable web applications and AI-powered solutions. Passionate about full-stack development, problem solving, and learning new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-jais) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijaiswal7479@gmail.com) 
