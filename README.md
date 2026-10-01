@@ -7,7 +7,7 @@
     <img alt="GitHub contribution grid snake animation" 
          src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
-</di
+</div>
 
 # 👋 Hi, I'm Abhishek Jaiswal
 
